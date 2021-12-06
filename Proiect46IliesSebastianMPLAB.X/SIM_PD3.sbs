@@ -1,0 +1,80 @@
+## SCL Builder Setup File: Do not edit!!
+
+## VERSION: MPLAB X
+## FORMAT:  v2.00.01
+## DEVICE:  ATMEGA328P
+
+## PINREGACTIONS
+cyc
+
+0
+PD3
+--
+0
+0
+--
+100
+1
+--
+250
+0
+--
+500
+1
+--
+700
+0
+--
+900
+1
+--
+1500
+0
+--
+2100
+1
+--
+2700
+0
+--
+&
+## ADVPINREGACTIONS
+--
+&
+--
+COND2
+Any
+
+
+
+0
+cyc
+
+--
+&
+## CLOCK
+&
+## STIMULUSFILE
+&
+## RESPONSEFILE
+&
+## ASYNCH
+Pin
+PD3
+Set High
+
+
+-1
+--
+Pin
+PD3
+Set Low
+
+
+-1
+--
+&
+## ADVANCEDSCL
+
+1
+&

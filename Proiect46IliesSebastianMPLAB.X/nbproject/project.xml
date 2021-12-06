@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>com.microchip.mplab.nbide.embedded.makeproject</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/make-project/1">
+            <name>Proiect46IliesSebastianMPLAB</name>
+            <name>Proiect46IliesSebastianMPLAB</name>
+            <name>SSg_Display</name>
+            <name>PWM_OCR</name>
+            <name>PWM_GPIO</name>
+            <name>PCINT_BtnFSM_Debouncer</name>
+            <name>PCINT_Debouncer</name>
+            <name>Secventa_Timer1_PCINT</name>
+            <name>Secventa_Timer0_PCINT</name>
+            <name>Secventa_PCINT</name>
+            <name>Secventa_BTN</name>
+            <name>Gpio2_Secventa</name>
+            <name>Avr_Gpio1</name>
+            <creation-uuid>ec45c95f-3114-4269-a1ef-9b1ef1c86c7c</creation-uuid>
+            <make-project-type>0</make-project-type>
+            <c-extensions>c</c-extensions>
+            <cpp-extensions/>
+            <header-extensions>h</header-extensions>
+            <asminc-extensions/>
+            <sourceEncoding>ISO-8859-1</sourceEncoding>
+            <make-dep-projects/>
+            <sourceRootList>
+                <sourceRootElem>.</sourceRootElem>
+                <sourceRootElem>../Intensity_Adjust.X</sourceRootElem>
+            </sourceRootList>
+            <confList>
+                <confElem>
+                    <name>default</name>
+                    <type>2</type>
+                </confElem>
+            </confList>
+            <formatting>
+                <project-formatting-style>false</project-formatting-style>
+            </formatting>
+        </data>
+    </configuration>
+</project>
